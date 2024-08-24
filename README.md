@@ -13,6 +13,8 @@
 
 This data set project to provide insights in to the sales performance of Godswill enterprise. By analyzing various aspect of revenue, identify the season revenue, gender contribution to Godswill enterprise and make recommendation
 
+![Screenshot (4)](https://github.com/user-attachments/assets/5b3b7e66-8e4e-4705-9913-049b65fe10c2)
+
 
 ### Data Source
 
