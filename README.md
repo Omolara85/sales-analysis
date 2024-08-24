@@ -13,6 +13,7 @@
 
 This data set project to provide insights in to the sales performance of Godswill enterprise. By analyzing various aspect of revenue, identify the season revenue, gender contribution to Godswill enterprise and make recommendation
 
+
 ### Data Source
 
 sales data: the data set use for this analysis is "Sales Data set.Excel File", contain information of the company records for their sales, and this data set was provided by Quantum Analysis NG 
