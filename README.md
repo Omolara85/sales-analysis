@@ -10,6 +10,7 @@
 - [Limitation](#limitation)
 
 ### Project Overview
+***
 
 This data set project to provide insights in to the sales performance of Godswill enterprise. By analyzing various aspect of revenue, identify the season revenue, gender contribution to Godswill enterprise and make recommendation
 
